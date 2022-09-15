@@ -1,0 +1,4 @@
+Bundle-Name: LiferayTT-portlet
+Bundle-SymbolicName: LiferayTT.portlet
+Bundle-Version: 1.0.0
+Export-Package: LiferayTT.portlet.constants

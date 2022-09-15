@@ -1,0 +1,9 @@
+Bundle-Name: LiferayTT-api
+Bundle-SymbolicName: LiferayTT.api
+Bundle-Version: 1.0.0
+-metatype: *
+Export-Package: \
+	LiferayTT.api.api,\
+	LiferayTT.api.config,\
+	LiferayTT.api.constants,\
+	LiferayTT.api.impl
